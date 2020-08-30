@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+
+  
+    
+}
+img{
+    width: 450px;
+    height: 300px;
+    border: solid 1px black; 
+    border-radius: 10%;
+}
