@@ -1,13 +1,48 @@
 body{
-    text-align: center;
-    font-family:Arial Narrow, sans-serif;
 
-  
-    
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-color:teal;
+    margin-top: -15px;
+ }
+#home{
+    margin-left: 400px;
+    background-color:beige;
+    height: 610px;
+    width: 550px;
+    border-radius: 1%;
 }
 img{
-    width: 450px;
-    height: 300px;
-    border: solid 1px black; 
-    border-radius: 10%;
+    width: 370px;
+    height: 200px;
+    border: solid 2px teal; 
+    border-radius: 5%;
+    margin-top: 15px;
+}
+h1{
+    color: teal;
+    padding-top: 35px;
+}
+a{    
+    font-size: 25px;
+    margin-top: 50px;
+}
+ a:link
+{
+    text-decoration: none;
+}
+a:visited{
+    background-color: whitesmoke;
+    color: teal; 
+}
+a:hover{
+    text-decoration: none;
+}
+button{
+    margin-top: 70px;
+    background-color: teal;
+    color: whitesmoke;
+    border-radius: 8%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
 }
